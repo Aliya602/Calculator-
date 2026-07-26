@@ -1,4 +1,4 @@
-# Calculator-
+# Calculator 
 Creating a simple calculator with Python
 
 # How the calculator works 
